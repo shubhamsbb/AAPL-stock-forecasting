@@ -1,1 +1,1 @@
-# AAPL-stock-forecasting
+# AAPL-stock-forecasting project
